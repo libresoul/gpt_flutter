@@ -14,7 +14,6 @@ All the dependencies are listed in the `pubspec.yaml` file. You can install them
 flutter pub get
 ```
 
-<<<<<<< HEAD
 ## Setting up API keys
 
 Get your OpenAI api key [here](https://platform.openai.com/api-keys) and set it in the `lib/env/.env` file.
@@ -23,16 +22,6 @@ Get your OpenAI api key [here](https://platform.openai.com/api-keys) and set it 
 OPENAI_API_KEY=your_key
 ```
 
-=======
-## Setting up API key
-
-Get your API key from [here](https://platform.openai.com/api-keys) and set it in the `lib/env/.env` file.
-
-```bash
-OPEN_API_KEY=your_api_key
-```
- 
->>>>>>> 614c7e7 (update README)
 ## Generating files
 
 Run the build runner to generate the necessary files:
@@ -51,10 +40,10 @@ flutter run -d <device_id>
 
 ## Building the app
 
-You can build the app for any of the platforms mentioned [here](https://docs.flutter.dev/reference/supported-platforms) by running the following command in your terminal:
+You can build the app for any platform mentioned [here]https://docs.flutter.dev/reference/supported-platforms) by running the following command in your terminal:
 
 ```bash
 flutter build <platform>
 ```
 
-Follow the instructions for each platform on the flutter documentation [here](https://flutter.dev/docs/deployment).
+Make sure to follow the instructions for each platform mentioned in the flutter [documentation](https://flutter.dev/docs/deployment).
