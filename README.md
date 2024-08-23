@@ -40,7 +40,7 @@ flutter run -d <device_id>
 
 ## Building the app
 
-You can build the app for any platform mentioned [here]https://docs.flutter.dev/reference/supported-platforms) by running the following command in your terminal:
+You can build the app for any platform mentioned [here](https://docs.flutter.dev/reference/supported-platforms) by running the following command in your terminal:
 
 ```bash
 flutter build <platform>
