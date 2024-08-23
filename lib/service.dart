@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:ai_app/env/env.dart';
+import 'env/env.dart';
 
 class OpenAIService {
   final String apiKey = Env.apikey;

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:ai_app/service.dart';
+import 'service.dart';
 
 void main() {
   runApp(MyApp());
