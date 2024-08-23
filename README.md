@@ -14,6 +14,7 @@ All the dependencies are listed in the `pubspec.yaml` file. You can install them
 flutter pub get
 ```
 
+<<<<<<< HEAD
 ## Setting up API keys
 
 Get your OpenAI api key [here](https://platform.openai.com/api-keys) and set it in the `lib/env/.env` file.
@@ -22,6 +23,16 @@ Get your OpenAI api key [here](https://platform.openai.com/api-keys) and set it 
 OPENAI_API_KEY=your_key
 ```
 
+=======
+## Setting up API key
+
+Get your API key from [here](https://platform.openai.com/api-keys) and set it in the `lib/env/.env` file.
+
+```bash
+OPEN_API_KEY=your_api_key
+```
+ 
+>>>>>>> 614c7e7 (update README)
 ## Generating files
 
 Run the build runner to generate the necessary files:
