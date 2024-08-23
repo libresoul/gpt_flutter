@@ -32,7 +32,7 @@ flutter pub run build_runner build --delete-conflicting-outputs
 
 ## Running the app
 
-You can run the app on an emulator or a physical device by running the following command in your terminal. Make sure to mention the device id if you have multiple devices connected.:
+You can run the app on an emulator or a physical device by executing the following command in your terminal. Make sure to mention the device id if you have multiple devices connected.:
 
 ```bash
 flutter run -d <device_id>
@@ -40,10 +40,10 @@ flutter run -d <device_id>
 
 ## Building the app
 
-You can build the app for by running the following command in your terminal:
+You can build the app for any platform mentioned [here]https://docs.flutter.dev/reference/supported-platforms) by running the following command in your terminal:
 
 ```bash
 flutter build <platform>
 ```
 
-Follow the instructions for each platform on the flutter documentation [here](https://flutter.dev/docs/deployment).
+Make sure to follow the instructions for each platform mentioned in the flutter [documentation](https://flutter.dev/docs/deployment).
